@@ -5,7 +5,7 @@ A simple, good looking cookie alert for Bootstrap
 
 ```html
 <link rel="stylesheet" href="https://2x110.com/cookiealert.css">
-<link rel="stylesheet" href="https://2x110.com/min.bootstrap.css">
+<link rel="stylesheet" href="https://2x110.com/animate.min.css">
 ```
 
 2 Add the html code.
