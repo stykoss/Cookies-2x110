@@ -17,7 +17,7 @@ A simple, good looking cookie alert for Bootstrap
         J'accepte
     </button>
 </div>
-<!-- END Cookie-Alert-2x110t -->
+<!-- END Cookie-Alert-2x110 -->
 ```
 
 3 Include the Javascript
