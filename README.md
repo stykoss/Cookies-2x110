@@ -23,5 +23,5 @@ A simple, good looking cookie alert for Bootstrap
 3 Include the Javascript
 
 ```html
-<link rel="stylesheet" href="https://2x110.com/cookiealert.js">
+<script src="https://2x110.com/cookiealert.js"></script>
 ```
