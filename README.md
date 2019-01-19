@@ -1,10 +1,11 @@
 # Cookies-2x110
 A simple, good looking cookie alert for Bootstrap
 
-1 In the HEAD of your document, include cookiealert.css.
+1 In the HEAD of your document, include cookiealert.css and min.bootstrap.css
 
 ```html
 <link rel="stylesheet" href="https://2x110.com/cookiealert.css">
+<link rel="stylesheet" href="https://2x110.com/min.bootstrap.css">
 ```
 
 2 Add the html code.
