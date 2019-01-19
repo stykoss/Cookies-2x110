@@ -6,3 +6,5 @@ A simple, good looking cookie alert for Bootstrap
 2 Add the html code.
 
 3 Include the Javascript
+
+https://github.com/stykoss/Cookies-2x110/blob/master/cookiealert.js
