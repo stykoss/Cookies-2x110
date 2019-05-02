@@ -8,7 +8,7 @@ A simple, good looking cookie alert for Bootstrap
 <link rel="stylesheet" href="https://2x110.com/animate.min.css">
 ```
 
-2 Add the html code.
+2 Add the html code
 
 ```html
 <!-- START Cookie-Alert-2x110 -->
